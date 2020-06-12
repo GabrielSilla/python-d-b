@@ -1,1 +1,4 @@
-teste
+Insert the desired URL's inside the input.txt file
+Run with 'scrapy runspider test.py'
+
+The results and logs will be outputted after the execution finishies
